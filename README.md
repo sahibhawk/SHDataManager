@@ -13,13 +13,15 @@ This library solves that problem by providing a unified interface to manage data
 ### Swift Package Manager (SPM)
 The  [Swift Package Manager](https://swift.org/package-manager/)  is a tool for automating the distribution of Swift code and is integrated into the  `swift`  compiler.
 
+if using in Application
+
 -   File > Swift Packages > Add Package Dependency
 -   Add  `https://github.com/sahibhussain/SHDataManager.git`
 -   Select "Up to Next Major" with "1.1.0"
 
 if Using in Package
 
-Once you have your Swift package set up, adding Alamofire as a dependency is as easy as adding it to the  `dependencies`  value of your  `Package.swift`  or the Package list in Xcode.
+Once you have your Swift package set up, adding SHDataManager as a dependency is as easy as adding it to the  `dependencies`  value of your  `Package.swift`  or the Package list in Xcode.
 
 ```
 dependencies: [
@@ -129,3 +131,9 @@ let ifExists = SavedContent.keychain.exists
 let value = SavedContent.keychain.retrieve()
 SavedContent.keychain.delete()
 ```
+
+# Others
+
+### Contact
+
+Follow and contact me on [Twitter](http://twitter.com/onevcat). If you find an issue, [open a ticket](https://github.com/onevcat/Kingfisher/issues/new). Pull requests are warmly welcome as well.
