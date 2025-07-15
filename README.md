@@ -136,4 +136,4 @@ SavedContent.keychain.delete()
 
 ### Contact
 
-Follow and contact me on [Twitter](http://twitter.com/onevcat). If you find an issue, [open a ticket](https://github.com/onevcat/Kingfisher/issues/new). Pull requests are warmly welcome as well.
+Follow and contact me on [X (Twitter)](https://x.com/Sahib_hussain0). If you find an issue, [open a ticket](https://github.com/sahibhussain/SHDataManager/issues/new). Pull requests are warmly welcome as well.
